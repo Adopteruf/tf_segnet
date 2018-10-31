@@ -7,3 +7,4 @@ hickle,
 numpy,
 cv2,
 PIL
+# Reference: https://github.com/tkuanlun350/Tensorflow-SegNet
