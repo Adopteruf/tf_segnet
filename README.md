@@ -1,2 +1,9 @@
 # tf_segnet
-# requirement: tf==1.4.0 n
+requirement:
+tensorflow==1.4.0,
+keras,
+cPickle,
+hickle,
+numpy,
+cv2,
+PIL
